@@ -1,4 +1,3 @@
-
-B
+how to solve conflicts
 welcome to git class
 upload to github
